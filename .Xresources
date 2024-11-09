@@ -1,0 +1,53 @@
+#include ".Xresources.d/tokyonight.xrdb"
+
+Xft.dpi:	144
+
+Xcursor,theme:  Future-Dark
+Xcursor.size:	44
+
+! DWM colours
+dwm.normfgcolor:            base05
+dwm.normbgcolor:            base00
+dwm.normbordercolor:        base03
+dwm.normfloatcolor:         base03
+
+dwm.selfgcolor:             base07
+dwm.selbgcolor:             base00
+dwm.selbordercolor:         base0D
+dwm.selfloatcolor:          base0E
+
+dwm.scratchnormfgcolor:     base05
+dwm.scratchnormbgcolor:     base00
+dwm.scratchnormbordercolor: base03
+dwm.scratchnormfloatcolor:  base03
+
+dwm.scratchselfgcolor:      base07
+dwm.scratchselbgcolor:      base00
+dwm.scratchselbordercolor:  base0C
+dwm.scratchselfloatcolor:   base0C
+
+dwm.tagsnormfgcolor:        base05
+dwm.tagsnormbgcolor:        base00
+dwm.tagsnormbordercolor:    base00
+dwm.tagsnormfloatcolor:     base00
+
+dwm.tagsselfgcolor:         base07
+dwm.tagsselbgcolor:         base00
+dwm.tagsbordercolor:        base00
+dwm.tagsfloatcolor:         base00
+
+dwm.titlenormfgcolor:       base05
+dwm.titlenormbgcolor:       base00
+dwm.titlenormbordercolor:   base00
+dwm.titlenormfloatcolor:    base00
+
+dwm.titleselfgcolor:        base07
+dwm.titleselbgcolor:        base00
+dwm.titlebordercolor:       base00
+dwm.titlefloatcolor:        base00
+
+dwm.hidnormfgcolor:         base0A
+dwm.hidnormbgcolor:         base00
+dwm.hidselfgcolor:          base0B
+dwm.hidselbgcolor:          base00
+
